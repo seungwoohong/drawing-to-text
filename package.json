@@ -1,0 +1,17 @@
+{
+  "name": "drawing-to-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:seungwoohong/drawing-to-text.git",
+  "author": "seungwoohong <alwls601@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^3.1.4",
+    "vite": "^4.4.0"
+  }
+}
